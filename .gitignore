@@ -1,0 +1,9 @@
+# Ignore a specific file
+wordly_helper_bot_id.txt
+
+# Ignore all files in a folder
+.ipynb_checkpoints/
+
+# Ignore all Python cache files
+__pycache__/
+*.pyc
