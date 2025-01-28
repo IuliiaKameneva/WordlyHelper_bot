@@ -19,6 +19,9 @@ Clone the repository:
 
 `git clone https://github.com/IuliiaKameneva/WordlyHelper_bot.git`
 
+Install the neccessary packages:
+`pip install -r requirements.txt`
+
 ## Usage
 
 #### Telegram Bot
